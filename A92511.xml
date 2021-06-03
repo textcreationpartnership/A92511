@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act of the Estates of Scotland, in the yeare 1643. And letters of horning and rebellion against James Duke of Hamilton, William Earle of Morton, Robert Earle of Roxbrough, George Earle of Kinnoule, and William Earle of Lanerick, as enemies to religion, and the peace of the kingdomes. With a letter from a person of qualitie in London, to some friends in Scotland; advising about the said Duke and Earles : and other affaires now transacting in Scotland, worthy of observation.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92511</idno><idno type="EEBO-CITATION">99872086</idno>
+  <idno type="VID">161542</idno>
+  <idno type="EEBO-PROQUEST">2240940523</idno>
+  
+            <idno type="STC">Wing S1140</idno>
+            <idno type="STC">Thomason E433_10</idno>
+            <idno type="STC">ESTC R25212</idno>
+            <idno type="PROQUEST">99872086</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872086e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92511)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161542)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E433[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act of the Estates of Scotland, in the yeare 1643. And letters of horning and rebellion against James Duke of Hamilton, William Earle of Morton, Robert Earle of Roxbrough, George Earle of Kinnoule, and William Earle of Lanerick, as enemies to religion, and the peace of the kingdomes. With a letter from a person of qualitie in London, to some friends in Scotland; advising about the said Duke and Earles : and other affaires now transacting in Scotland, worthy of observation.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 21 1647"; the 8 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hamilton, James Hamilton, --  Duke of, 1606-1649 --  Early works to 1800.</term>
+               <term type="personal_name">Morton, William Douglas, --  Earl of, 1583 or 4-1648 --  Early works to 1800.</term>
+               <term type="personal_name">Hamilton, William Hamilton, --  Duke of, 1616-1651 --  Early works to 1800.</term>
+               <term type="personal_name">Roxburghe, Robert Ker, --  Earl of, d. 1650 --  Early works to 1800.</term>
+               <term type="personal_name">Kinnoull, George Hay, --  Earl of, d. 1644 --  Early works to 1800.</term>
+               <term type="uniform_title">Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161542:1"/>
+            <p>An Act of the ESTATES OF SCOTLAND, In the Yeare 1643.</p>
+            <p>AND Letters of Horning and Rebellion a<g ref="char:EOLhyphen"/>gainst <hi>James</hi> Duke of <hi>Hamilton, Wil<g ref="char:EOLhyphen"/>liam</hi> Earle of <hi>Morton, Robert</hi> Earle of <hi>Roxbrough, George</hi> Earle of <hi>Kinnoule,</hi> and <hi>William</hi> Earle of <hi>Lanerick,</hi> as e<g ref="char:EOLhyphen"/>nemies to Religion, and the Peace of the Kingdomes.</p>
+            <p>
+               <hi>WITH</hi> A Letter from a Person of qualitie in <hi>London,</hi> to some friends in <hi>Scotland;</hi> advising a<g ref="char:EOLhyphen"/>bout the said Duke and Earles: And other Affaires now transacting in <hi>Scotland,</hi> worthy of Observation.</p>
+            <p>
+               <add>march .21</add>
+               <hi>LONDON,</hi> Printed for <hi>Robert White</hi> 1648. <add>1647.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="act_of_the_Estates_of_Scotland">
+            <pb facs="tcp:161542:2"/>
+            <pb n="1" facs="tcp:161542:2"/>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">C</seg>HARLES by the grace of God, King of great Brittain, France, and Ireland, Defender of the Faith. To our Lovets, He<g ref="char:EOLhyphen"/>ralds, Messengers, and Our Sheriffs in that part conjoynt<g ref="char:EOLhyphen"/>ly, and severally, specially constitute Greeting.</salute>
+            </opener>
+            <p>Anent the Warrant directed by the Committee of our Estates making mention. Foras<g ref="char:EOLhyphen"/>mickle as the said Committee, by their Act of the 12.<seg rend="sup">th</seg> of <hi>October</hi> last, did ordaine the soleme League, and Covenant to be subscribed, and sworne by all his Majesties Subjects of this our Kingdome, under the paine, to such as should pospone or refuse the same, to be esteemed, and punished as Enemies to Re<g ref="char:EOLhyphen"/>ligion, our Honour, and Peace of our Kingdomes; And that their Goods, and Rents should be confis<g ref="char:EOLhyphen"/>cated, to the use of the Publique, And that they should not enjoy benefit, place, or Office in this our Kingdome; Like as the Lords of our Privie Coun<g ref="char:EOLhyphen"/>sell by their Act of the 18.<seg rend="sup">th</seg> of <hi>October</hi> last, did hear<g ref="char:EOLhyphen"/>tily concurre with the Judgement of the said Com<g ref="char:EOLhyphen"/>mittee, anent the swearing, and subscribing of the said Covenant; And accordingly did ordaine the same
+<pb n="2" facs="tcp:161542:3"/> to be subscribed by all our Subjects. Notwith<g ref="char:EOLhyphen"/>standing thereof, <hi>Iames</hi> Duke of <hi>Hamilton, William</hi> Earle of <hi>Morton, Robert</hi> Earle of <hi>Roxborough, George</hi> Earle of <hi>Kinnoule, David</hi> Earle of <hi>Southeske,</hi> and <hi>William</hi> Earle of <hi>Lanerick,</hi> being desired by Letters sent to them from the Lords of our Privie Coun<g ref="char:EOLhyphen"/>cell, to repaire to our Councell at <hi>Edenburgh,</hi> upon the second of <hi>November</hi> instant, for swearing and subscribing of the Covenant; And a Copy of the said Covenant, and Acts prefixed thereto, being sent to them for their better Information, They have notwithstanding, all, and every one of them refus<g ref="char:EOLhyphen"/>ed, or at least posponed to sweare, and subscribe the same: And therefore have incurred, and doe incurre the paines contained in the said Acts, wherewith the Councell hath acquainted the Committee. And a<g ref="char:EOLhyphen"/>nent the Charge given to the said <hi>James</hi> Duke of <hi>Hamilton, William</hi> Earle of <hi>Morton, Robert</hi> Earle of <hi>Roxborough, George</hi> Earle of <hi>Kinnoule, David</hi> Earle of <hi>Southeske,</hi> and <hi>William</hi> Earle of <hi>Lanerick,</hi> to have compeired personally before the Committee of our Estates this present day, to have answered upon their disobedience to the Acts aforesaid; And to have heard, and seen them discerned to have incurred the paines contained therein; And accordingly to have seen punished as Enemies to Religion, our Honour, and Peace of our Kingdomes; And to have their Goods and Rents confiscated to the use of the Pub<g ref="char:EOLhyphen"/>like. And to have been discharged of enjoying any benefit, place, or Office within this our Kingdome, or else to shew a reasonable cause why the same should not have been done, with certification to them, if they failed, the said Committee would proceed, discerne,
+<pb n="3" facs="tcp:161542:3"/> and punish in manner aforesaid, like as at more length is contained in the said Warrant, Executions, and In<g ref="char:EOLhyphen"/>dorsations thereof; which being called, and the said <hi>Iames</hi> Duke of <hi>Hamilton, Robert</hi> Earle of <hi>Roxbrough, George</hi> Earl of <hi>Kinnoule,</hi> and <hi>William</hi> Earle of <hi>Lane<g ref="char:EOLhyphen"/>rick,</hi> being oft times called, and not compeired, and the Lord Chancellor having produced a Letter, dire<g ref="char:EOLhyphen"/>cted from the Earle of <hi>Morton,</hi> to the said Commit<g ref="char:EOLhyphen"/>tee, shewing, that in respect of his infirmity he could not keep his Dyet, And the said Earl of <hi>Southeske</hi> com<g ref="char:EOLhyphen"/>peired personally, who declared, that in respect of his inability to travel, he could not keep the first Dyet; But that he had satisfied the tenor of the Act of the Committee in subscribing the Covenant at home in his owne Parish Church, with the rest of the Parish, and was willing to renew the same here, if so the Committee should think fitting, like as at the desire of the said Committee, he did instantly sweare, and signe the same; In respect whereof, the Committee hath as<g ref="char:EOLhyphen"/>sayled him from his Summons, and whole heads, and Articles contained therein, And from all that hath fol<g ref="char:EOLhyphen"/>lowed thereupon: And the Committee discerned <hi>Iames</hi> Duke of <hi>Hamilton, William</hi> Earle of <hi>Morton, Robert</hi> Earl of <hi>Roxbrough, George</hi> Earl of <hi>Kinnoule,</hi> and <hi>William</hi> Earl of <hi>Lanerick,</hi> to have incurred, and to in<g ref="char:EOLhyphen"/>curre the paines contained in the said Act of the Com<g ref="char:EOLhyphen"/>mittee, And accordingly declared them, &amp; every one of them to be Enemies to Religion, our Honour, and peace of our Kingdomes; And that their Goods, and Rents doe belong to the Publique; And that they shal not enjoy any benefit, place, or Office within this our Kingdomes; And ordaine all manner of executions, personall, and reall, to be directed against them, for pu<g ref="char:EOLhyphen"/>nishing
+<pb n="4" facs="tcp:161542:4"/> their persons, and intromitting with their Rents and Goods, and benefit of their Offices, Because the said Duke of <hi>Hamilton,</hi> Earles of <hi>Morton, Rox<g ref="char:EOLhyphen"/>brough, Kinnoule,</hi> and <hi>Lanerick,</hi> being lawfully charg<g ref="char:EOLhyphen"/>ed by a Messenger of Armes, to have compeired this present day, to have heard and seen a Sentence given in manner aforesaid, or else to have shewed a reasonable cause to the contrary, did not compeir nor shew any cause why the same should not be done, As we cleerely understand by the said Committee; for the whelke cause they have discerned, and declared in manner aforesaid. Our will is therefore, and We charge you straightly, and Commands, that inconti<g ref="char:EOLhyphen"/>nent, these our Letters seen, you passe, and in our name, and Authority, make publication hereof by open Proclamation at the Market Crosse at <hi>Edenburgh,</hi> and Market Crosses of the Head Burroughes of the Shires, and Parish Kirkes, against the said persons, their Lands, Offices and Estates, wherethrough none of our good Subjects pretend Ignorance of the same. The which to do, We commit to you conjoynt<g ref="char:EOLhyphen"/>ly, and severally our full power by these our Let<g ref="char:EOLhyphen"/>ters, delivering the same, by you duely Execute, and indorsate againe to the Bearer,</p>
+            <closer>
+               <dateline>Given under our Signet at <hi>Edenburgh,</hi>
+                  <date>the 16. of <hi>November,</hi> and of our Reigne the 19.<seg rend="sup">th</seg> yeare, 1643.</date>
+               </dateline>
+               <signed>Per actum Commiss. Conventionis.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:161542:4"/>
+            <opener>
+               <salute>Honoured Sirs,</salute>
+            </opener>
+            <p>HAving among some Papers and Books of your former Procee<g ref="char:EOLhyphen"/>dings in <hi>Scotland,</hi> met with this Act, whereof (for your bet<g ref="char:EOLhyphen"/>ter satisfaction) I send you a Copy inclosed. I cannot forbeare out of the sympathy and affection God hath beene pleased to stirre up in me towards our common Cause, to communicate to you some of my thoughts, and secret arguings with my selfe upon it. Was my Lord <hi>Hamilton, Lanerick, Rexbrough,</hi> and the rest, so obstinate and dangerous enemies to the Covenant and People of God at their first entring into that Solemne Vow, as that they merited Horning, and the utmost penalty of the Law? Truly I cannot satisfie my selfe what Repentance and Reformation they have manifested since that they must now have the trust of that Kingdome in their hands, and the safety or ruine of Gods people in their Will and Power; But give me leave to be free in this matter, Its doubted that either you have falne from the first Principles and Grounds of your ingaging in this Cause, wherein you happily prospered as long as you kept to those grounds, and suffered not the Malignants, or else the sonnes of <hi>Zervia</hi> have beene too hard for you. The Malignants, with whom you dalli<g ref="char:EOLhyphen"/>ed, and complied over-much, are growne too strong for you. I have heard indeed that when <hi>Lanerick</hi> was received, some of your Noble<g ref="char:EOLhyphen"/>men were told you had taken in a Snake into your bosome, the conse<g ref="char:EOLhyphen"/>quence whereof (by admitting many other false brethren upon the like grounds.) It is to be feared, hath bred almost an incurable Malady in your Counsels: This is the fruit of turning downe right Honesty into State Policy: If you had bound up resolutely, and trusted God with the finall issue of our Cause, without fa<g ref="char:EOLhyphen"/>vouring or complying with the Kings Faction and Malignants, the two great evils by which the welfare of the Kingdomes may be endangered, had been prevented. First, there would have beene no occasion or pretence to the Independent Party to take those unaccu<g ref="char:EOLhyphen"/>stomed wayes they alleadge, they were necessitated to doe, to secure themselves and the honest Interest in this Kingdome against the supposed danger of the malignant Factions, scruing in themselves, and by degrees becoming Masters againe, and Ʋndoers of all that hath been done these seven yeares, which I confesse, if they had no further designe, may beare them out colourably, if not justifiably <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n their late Actions. And secondly, you had not met with such
+<pb n="6" facs="tcp:161542:5"/> Rubs, Treacheries, and Counterminings in your Affaires at home: which I mention not to upbraid (for I know to whom I write) but to humble us, and to raise up new thoughts and resolutions to walke more warily for the future, to steer our course as cautiously as we can betwixt the two Rocks of the Malignant and the Independent Party. For I assure you, though the rabble and rasher sort of men here cry out for the King, yet the wisest of your friends cannot admit of a Conjunction with his Interest (this Kings I meane) who we are confident (if we should restore Him to His Power) would lay us all low enough, and trample under foot Religion and the Liberties of the Kingdomes. And therefore if you love your selves and us, beware of admitting that Leaven into our Cause which would marre the whole Lump; And if it be possible (though I dare not commend the exam<g ref="char:EOLhyphen"/>ple of what was done here, because there was not so great a necessity, nor just ground for it,) yet if you see an absolute necessity for the cleare carrying on of businesse, It is the opinion of many of your best friends here, that by a timely Purge you cast out of your Counsels, the Duke, and such of your malignant Confederates as are most op<g ref="char:EOLhyphen"/>posite to the godly Party there; And truly we hope if you can then bring about businesse to some Treaty, or Review here, the Indepen<g ref="char:EOLhyphen"/>dents may be drawne to such tearmes, as may give some way and roome to our Interest, which if God please, we may afterwards im<g ref="char:EOLhyphen"/>prove to better and further advantage that way, then if by a hazar<g ref="char:EOLhyphen"/>dous warre we should put all into confusion. But if the Independents should not hearken to reason, they may know, you have no small num<g ref="char:EOLhyphen"/>ber of friends in <hi>England,</hi> nor they inconsiderable persons, that will stick by you in the maintenance of the Covenant, to their utmost hazards: Only let all faire meanes be first tried to save Blood, and the endangered ruine of the Kingdomes. And againe, remember not to admit of a conjunction in Counsels, or Forces with the Cavaliers and malignant Faction, for that will loose you the hearts of all wise honest men, and draw downe a Curse instead of a Blessing upon your Ʋndertakings: Thus with a hearty remembrance to all our Noble Confiders there, and my Prayers for Gods speciall Direction and Assistance in the weighty Affaires now before you, I rest</p>
+            <closer>
+               <signed>Your truly affectionate and faithfull friend. <hi>I.T.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Imprimatur</p>
+               <closer>
+                  <signed>Gil. Mabbot.</signed>
+                  <dateline>London <date>14. March 1647.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
